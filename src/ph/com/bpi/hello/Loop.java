@@ -17,9 +17,9 @@ public class Loop {
 		
 		int num = 1;
 		// loop until num = 50
-		while (num <= 49) 
+		while (num <= 49) {
 			num = num + 1; 
-				
+		}		
 		
 		System.out.println("Sum = " + num);
 				
